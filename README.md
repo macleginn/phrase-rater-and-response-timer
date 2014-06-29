@@ -16,5 +16,6 @@ a file in the same directory with the time of the end of the interview as a name
 Written in Python 3.4 using Tkinter (i.e., does not use any external libraries).
 
 Usage:
-
+```
 ~ $ python3 phraseRater.py [yourfilename]
+```
